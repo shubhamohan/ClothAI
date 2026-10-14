@@ -1,0 +1,13 @@
+venv/
+venv_ov/
+venv_app/
+.venv/
+models/
+outputs/
+.gradio/
+*.safetensors
+*.bin
+*.ckpt
+*.pt
+__pycache__/
+*.pyc
