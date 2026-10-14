@@ -1,7 +1,2 @@
 streamlit>=1.50
-torch
-diffusers>=0.30
-transformers
-accelerate
-safetensors
 Pillow

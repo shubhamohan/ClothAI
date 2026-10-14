@@ -11,3 +11,6 @@ outputs/
 *.pt
 __pycache__/
 *.pyc
+angles.py
+garments.py
+app_old.py
